@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\khj00\source\repos\software3\software3\Funcions.h(75,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\khj00\source\repos\software3\software3\main.cpp(17,6): warning C4101:  'wtNum' :참조되지 않은 지역 변수입니다.
+C:\Users\khj00\source\repos\software3\software3\main.cpp(19,6): warning C4101:  'delNum' :참조되지 않은 지역 변수입니다.
+C:\Users\khj00\source\repos\software3\software3\main.cpp(18,7): warning C4101:  'wt' :참조되지 않은 지역 변수입니다.
+C:\Users\khj00\source\repos\software3\software3\main.cpp(16,6): warning C4101:  'rdNum' :참조되지 않은 지역 변수입니다.
+  software3.vcxproj -> C:\Users\khj00\source\repos\software3\Debug\software3.exe
